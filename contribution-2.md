@@ -126,7 +126,7 @@ Two new unit tests added to `crates/ruff_workspace/src/configuration.rs` inside 
 **PR Link:** https://github.com/astral-sh/ruff/pull/26441
 
 **Maintainer Feedback:**
-- [Awaiting review]
+- Asked if PR was AI generated. I replied
 
 **Status:** Awaiting review
 
