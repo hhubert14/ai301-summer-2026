@@ -127,7 +127,7 @@ Two new unit tests added to `crates/ruff_workspace/src/configuration.rs` inside 
 
 **Maintainer Feedback:**
 - Asked if PR was AI generated. I replied
-- Followed up with maintainer
+- Followed up with maintainer (again)
 
 **Status:** Awaiting review
 
