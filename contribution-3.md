@@ -1,4 +1,4 @@
-# Contribution 1: Use --config in ecosystem checks
+# Contribution 3: Use --config in ecosystem checks
 
 **Contribution Number:** 3
 **Student:** Hubert Huang
