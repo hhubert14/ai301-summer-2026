@@ -1,9 +1,9 @@
 # Contribution 1: Use --config in ecosystem checks
 
-**Contribution Number:** 1
+**Contribution Number:** 3
 **Student:** Hubert Huang
 **Issue:** https://github.com/astral-sh/ruff/issues/10345
-**Status:** Phase I In Progress
+**Status:** Phase 2 Done
 
 ---
 
